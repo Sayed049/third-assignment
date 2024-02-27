@@ -1,0 +1,25 @@
+/* for small device */
+@media (max-width: 576px) {
+    .carousel-inner .carousel-item.active img {
+        height: 330px;
+    }
+
+    .custom-h5 {
+        font-size: 1.25rem;
+        font-weight: 700;
+    }
+
+    .custom-p {
+        font-size: 1rem;
+    }
+
+    .custom-img {
+        width: 406px !important;
+        height: 330px !important;
+    }
+
+    .custom-border {
+        width: 406px !important;
+        height: 170px !important;
+    }
+}
